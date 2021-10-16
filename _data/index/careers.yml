@@ -46,7 +46,7 @@
     detail: Software Cube
     i18n: company_b
   desc:
-    detail: Scripting and Packaging
+    detail: Software Engineer
     i18n: company_b_desc
   date:
     detail: August 2016
@@ -60,13 +60,13 @@
     detail: Atos
     i18n: company_b
   desc:
-    detail: On-Site Network
+    detail: Network Engineer
     i18n: company_b_desc
   date:
     detail: May 2017
     i18n: company_b_date
   job:
-    detail: Software Engineer
+    detail: Network Engineer
     i18n: company_b_job
   icon: fa-plus-square
   
@@ -80,7 +80,7 @@
     detail: March 2021
     i18n: company_b_date
   job:
-    detail: Software Engineer
+    detail: Cyber-Security Analyst
     i18n: company_b_job
   icon: fa-plus-square
   present: true
