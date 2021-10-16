@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
+- name: Hack the Box
+  i18n: hackthebox
+  gh_user: fr3akazo1d
+  url: https://app.hackthebox.eu/profile/307465
+  img: /static/assets/img/landing/htb.png
+  desc: I use this platform to get a better understanding from hacking and pentesting.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Try Hack Me
+  i18n: tryhackme
+  gh_user: fr3akazo1d
+  url: https://tryhackme.com/p/Fr3akazo1d
+  img: /static/assets/img/landing/thm.png
+  desc: This is also my Pentesting platform, but more for studying.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Blue Team Labs
+  i18n: blueteamlabs
+  url: https://blueteamlabs.online/public/user/b97bc149cd0050663fa4a4
+  img: /static/assets/img/landing/btlo.png
+  desc: My blue team platform where i keep learing my defense stuff.
