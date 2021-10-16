@@ -24,7 +24,7 @@
 - name: TCM - Security
   i18n: tcmsecurity
   url: https://academy.tcm-sec.com/
-  img: /static/assets/img/landing/tcm.png
+  img: /static/assets/img/landing/tcm.jpeg
   desc: My training site for my PNPT-Certification.
   
 - name: PentesterLab
