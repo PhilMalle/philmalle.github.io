@@ -1,30 +1,87 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Wild Austria
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Surface Engineer
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: August 2001
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Factoryworker
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
-    detail: Company B
+    detail: Infineon Technologies
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Scripting and Packaging
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: August 2010
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Scripter
     i18n: company_b_job
   icon: fa-plus-square
+  
+- name:
+    detail: addIT
+    i18n: company_b
+  desc:
+    detail: Scripting and Packaging
+    i18n: company_b_desc
+  date:
+    detail: July 2014
+    i18n: company_b_date
+  job:
+    detail: Scripter
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Software Cube
+    i18n: company_b
+  desc:
+    detail: Scripting and Packaging
+    i18n: company_b_desc
+  date:
+    detail: August 2016
+    i18n: company_b_date
+  job:
+    detail: Software Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Atos
+    i18n: company_b
+  desc:
+    detail: On-Site Network
+    i18n: company_b_desc
+  date:
+    detail: May 2017
+    i18n: company_b_date
+  job:
+    detail: Software Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Atos
+    i18n: company_b
+  desc:
+    detail: Cybersecurity Analyst
+    i18n: company_b_desc
+  date:
+    detail: March 2021
+    i18n: company_b_date
+  job:
+    detail: Software Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+  present: true
