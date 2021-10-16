@@ -11,7 +11,7 @@ icon: icon-html
 
 This is a raw snippet:
 
-```
+```sh
 hello world
 123
 This is a text snippet
@@ -20,7 +20,7 @@ This is a text snippet
 
 This is a JavaScript snippet:
 
-```
+```js
 const add = (a, b) => a + b
 const minus = (a, b) => a - b
 
