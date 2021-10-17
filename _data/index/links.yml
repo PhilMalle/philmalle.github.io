@@ -3,16 +3,13 @@
   first_name: John
   desc: Youtuber, Pentester, CTF-Player, Content-Creator 
   website: https://youtube.com/c/JohnHammond010
-  email:
 
 - last_name: Adams
   first_name: Heath
-  desc: The Cyber Mentor
+  desc: The Cyber Mentor, Pentesting
   website: http://www.youtube.com/c/thecybermentor
-  email: 
 
 - last_name: IppSec
   first_name: 
   desc: HackTheBox, Walkthroughs, CTF's
   Website: https://youtube.com/c/ippsec
-  email: 
