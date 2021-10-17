@@ -3,4 +3,4 @@
 label: Ability
 id : cs
 aspects: Linux, Windows, Mac, Python, Metasploit, BurpSuite, SIEM, Coffee
-percentage: 90, 80, 60, 40, 70, 60, 40, 100
+percentage: 70, 80, 60, 40, 70, 60, 40, 100
