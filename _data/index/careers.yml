@@ -69,6 +69,34 @@
     detail: Network Engineer
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: CCNA - Routing & Switching
+    i18n: company_b
+  desc:
+    detail: Cisco Certification
+    i18n: company_b_desc
+  date:
+    detail: May 2018
+    i18n: company_b_date
+  job:
+    detail: Cisco CCNA Routing & Swtiching
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: CCNA - Security
+    i18n: company_b
+  desc:
+    detail: Cisco Certification
+    i18n: company_b_desc
+  date:
+    detail: October 2019
+    i18n: company_b_date
+  job:
+    detail: Cisco CCNA Security
+    i18n: company_b_job
+  icon: fa-plus-square  
   
 - name:
     detail: Atos
