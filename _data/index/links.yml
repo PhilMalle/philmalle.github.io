@@ -1,15 +1,15 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Hammond
+  first_name: John
+  desc: Youtuber, Pentester, CTF-Player, Content-Creator 
+  website: https://youtube.com/c/JohnHammond010
+  email:
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Adams
+  first_name: Heath
+  desc: The Cyber Mentor
+  website: http://www.youtube.com/c/thecybermentor
+  email: 
 
 - last_name: LN
   first_name: FN
