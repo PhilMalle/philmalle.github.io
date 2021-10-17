@@ -2,17 +2,41 @@
 - last_name: Hammond
   first_name: John
   desc: Youtuber, Pentester, CTF-Player, Content-Creator 
-  website: https://youtube.com/c/JohnHammond010
+  youtube: https://youtube.com/c/JohnHammond010
   github: https://github.com/JohnHammond
+  website: https://johnhammond.org/
 
 - last_name: Adams
   first_name: Heath
   desc: The Cyber Mentor, Pentesting
-  website: http://www.youtube.com/c/thecybermentor
+  youtube: http://www.youtube.com/c/thecybermentor
   github: https://github.com/hmaverickadams
+  website: https://tcm-sec.com/
   
 - last_name: IppSec
   first_name: 
   desc: HackTheBox, Walkthroughs, CTF's
-  website: https://youtube.com/c/ippsec
+  youtube: https://youtube.com/c/ippsec
   github: https://github.com/IppSec
+  website: https://ippsec.rocks
+  
+- last_name: Live Overflow
+  first_name: 
+  desc: Walkthroughs, CTF's, Content-Creator
+  youtube: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+  github: https://github.com/LiveOverflow
+  website: https://liveoverflow.com/
+  
+- last_name: Network-Chuck
+  first_name: 
+  desc: Cisco, Network, Hacking
+  youtube: https://www.youtube.com/user/NetworkChuck
+  github: 
+  website: https://networkchuck.com/
+  
+- last_name: Bombal
+  first_name: David
+  desc: Cisco, Network, Hacking
+  youtube: https://www.youtube.com/user/ConfigTerm
+  github: https://github.com/davidbombal
+  website: https://davidbombal.com
