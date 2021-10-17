@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First Blog Entry "
+title:  "My persoal challenges for the next 2 years."
 date:   2021-10-17
-desc: "My First Blog Post"
+desc: "This are my personal certification witch i wanted to get in the next two years."
 keywords: "pentesting, first, blog, post, hacking"
 categories: [Personal]
 tags: [Personal, Exams, Life]
