@@ -1,13 +1,12 @@
 ---
-title: Welcome to my first Blog-Entry !
 layout: post
-summary: Getting Started with my personal blog.
-author: philmalle
-date: '2021-04-20 20:05:00'
-keywords: blog, first, philmalle, jekyll, online
-category: journey
-thumbnail: "/assets/img/hacking.png"
-permalink: "/blog/welcome-to-my-first-blog-entry/"
+title:  "First Blog Entry "
+date:   2021-10-17
+desc: "My First Blog Post"
+keywords: "pentesting, first, blog, post, hacking"
+categories: [Personal]
+tags: [Personal, Exams, Life]
+icon: icon-ghost
 ---
 
 # First Blog-Entry
