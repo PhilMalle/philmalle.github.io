@@ -26,7 +26,7 @@ author:  # change following line to your infomation.
     - name: fa-terminal
     - name: fa-linux
   skill_icon2:
-    - name: fa-shield-blank
+    - name: fa-linux
     - name: fa-terminal
   desc: By day i am a Cyber Security Analyst and by night i am a CTF-Player and Red-Teaming student.  # Describe yourself.
 
