@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Linux, Motivation, Python, BurpSuite, Metasploit, Sleeping, Coffee
-percentage: 90, 50, 65, 55, 90, 30, 90
+aspects: Linux, Windows, Mac, Python, Metasploit, BurpSuite, SIEM, Coffee
+percentage: 90, 80, 60, 40, 70, 60, 40, 100
