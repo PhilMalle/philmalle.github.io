@@ -6,7 +6,7 @@ desc: "This are my personal certification witch i wanted to get in the next two 
 keywords: "pentesting, first, blog, post, hacking"
 categories: [Personal]
 tags: [Personal, Exams, Life]
-icon: icon-ghost
+icon: fa-user
 ---
 
 # My Personal challenges for the next 2 years. 
