@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My persoal challenges for the next 2 years."
+title:  "My personal challenges for the next 2 years."
 date:   2021-10-17
 desc: "This are my personal certification witch i wanted to get in the next two years."
 keywords: "pentesting, first, blog, post, hacking"
@@ -9,7 +9,7 @@ tags: [Personal, Exams, Life]
 icon: icon-ghost
 ---
 
-# First Blog-Entry
+# My Personal challenges for the next 2 years. 
 
 Today i have started with my personal blog. I hope i will find the time to write about the things i like to speak about. 
 In this case, the most topics will be about my personal journey to become a Cyber-Security Professional or Pentester. 
