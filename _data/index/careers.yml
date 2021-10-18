@@ -4,13 +4,13 @@
     detail: Wild Austria
     i18n: company_a
   desc:
-    detail: Surface Engineer
+    detail: Surface Technician
     i18n: company_a_desc
   date:
     detail: August 2001
     i18n: company_a_date
   job:
-    detail: Factoryworker
+    detail: Skilled worker
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -18,7 +18,7 @@
     detail: Infineon Technologies
     i18n: company_b
   desc:
-    detail: Scripting and Packaging
+    detail: Scripting & Packaging
     i18n: company_b_desc
   date:
     detail: August 2010
@@ -32,7 +32,7 @@
     detail: addIT
     i18n: company_b
   desc:
-    detail: Scripting and Packaging
+    detail: Scripting & Packaging
     i18n: company_b_desc
   date:
     detail: July 2014
@@ -46,13 +46,13 @@
     detail: Software Cube
     i18n: company_b
   desc:
-    detail: Software Engineer
+    detail: Software Developer
     i18n: company_b_desc
   date:
     detail: August 2016
     i18n: company_b_date
   job:
-    detail: Software Engineer
+    detail: Software Developer
     i18n: company_b_job
   icon: fa-plus-square
 
