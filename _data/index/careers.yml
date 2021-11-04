@@ -102,13 +102,27 @@
     detail: TryHackMe
     i18n: company_b
   desc:
-    detail: Start on Tryhackme
+    detail: Student on Tryhackme
     i18n: company_b_desc
   date:
     detail: June 2020
     i18n: company_b_date
   job:
     detail: <img src="https://tryhackme-badges.s3.amazonaws.com/Fr3akazo1d.png" alt="TryHackMe">
+    i18n: company_b_job
+  icon: fa-plus-square 
+
+- name:
+    detail: Hack the Box
+    i18n: company_b
+  desc:
+    detail: Student on Tryhackme
+    i18n: company_b_desc
+  date:
+    detail: July 2020
+    i18n: company_b_date
+  job:
+    detail: <script src="https://www.hackthebox.eu/badge/307465"></script>
     i18n: company_b_job
   icon: fa-plus-square 
 
