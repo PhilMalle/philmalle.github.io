@@ -151,6 +151,6 @@
     detail: April 2021
     i18n: company_b_date
   job:
-    detail: /static/assets/img/BTLO-status.PNG
+    detail: <img src="../../static/assets/img/BTLO-status.PNG" alt="BlueTeamLabs">
     i18n: company_b_job
   icon: fa-plus-square 
