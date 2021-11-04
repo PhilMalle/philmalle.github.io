@@ -140,3 +140,17 @@
     i18n: company_b_job
   icon: fa-plus-square
   present: true
+
+- name:
+    detail: Blue Team Labs
+    i18n: company_b
+  desc:
+    detail: Student on BlueTeamLabs
+    i18n: company_b_desc
+  date:
+    detail: April 2021
+    i18n: company_b_date
+  job:
+    detail: Started with the BlueTeamLabs for Cyber-Defense
+    i18n: company_b_job
+  icon: fa-plus-square 
