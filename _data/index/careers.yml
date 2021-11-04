@@ -108,7 +108,7 @@
     detail: June 2020
     i18n: company_b_date
   job:
-    detail: <script src="https://tryhackme.com/badge/36293"></script>
+    detail: <img src="https://tryhackme-badges.s3.amazonaws.com/Fr3akazo1d.png" alt="TryHackMe">
     i18n: company_b_job
   icon: fa-plus-square 
 
