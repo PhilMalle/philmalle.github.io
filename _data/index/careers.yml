@@ -97,7 +97,21 @@
     detail: Cisco CCNA Security
     i18n: company_b_job
   icon: fa-plus-square  
-  
+
+- name:
+    detail: TryHackMe
+    i18n: company_b
+  desc:
+    detail: Start on Tryhackme
+    i18n: company_b_desc
+  date:
+    detail: June 2020
+    i18n: company_b_date
+  job:
+    detail: <script src="https://tryhackme.com/badge/36293"></script>
+    i18n: company_b_job
+  icon: fa-plus-square 
+
 - name:
     detail: Atos
     i18n: company_b
