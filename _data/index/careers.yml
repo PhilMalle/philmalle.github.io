@@ -122,7 +122,7 @@
     detail: July 2020
     i18n: company_b_date
   job:
-    detail: <script src="https://www.hackthebox.eu/badge/307465"></script>
+    detail: 
     i18n: company_b_job
   icon: fa-plus-square 
 
