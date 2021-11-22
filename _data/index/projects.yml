@@ -13,7 +13,13 @@
   url: https://app.hackthebox.eu/profile/307465
   img: /static/assets/img/landing/htb.png
   desc: I use this platform to get a better understanding from hacking and pentesting.
-  
+
+- name: Pentester Academy
+  i18n: pentesteracademy
+  url: https://www.pentesteracademy.com/
+  img: /static/assets/img/landing/pentester.png
+  desc: My Platform for the CRTP - Certification.
+
 - name: PentesterLab
   i18n: pentesterlab
   url: https://pentesterlab.com/
