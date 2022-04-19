@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Gear"
+date:   2022-0418
+desc: "Witch gear i am using at home. "
+keywords: "pentesting, gear, blog, post, hardware"
+categories: [Personal]
+tags: [Personal, About me, Life, Private, Gear, Hardware]
+icon: fa-user
+---
+
+# Home Gear
+
+This blog post will be about my gear witch i am using in my home office. 
+
+**update will follow**
