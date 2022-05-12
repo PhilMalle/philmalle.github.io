@@ -13,16 +13,16 @@
 
       <div class="item active">
         <div class="carousel-caption"></div>
-        <img src="{{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }}" alt="{{ site.data.index.banners[0].title }}" style="width:100%;">
-      </div>
+        <!-- changed width from width:100% to width:1024px -->
+        <center>
+        <img src="{{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }}" alt="{{ site.data.index.banners[0].title }}" style="width:1024px;">
+        </center>
+       </div>
 
       {% for banner in site.data.index.banners offset:1 %}
       <div class="item">
         <div class="carousel-caption"></div>
-        <!-- changed width from width:100% to width:1024px -->
-        <center>
-        <img src="{{ '/static/assets/img/'  | prepend: site.baseurl }}{{ banner.src }}" alt="{{ banner.title }}" style="width:1024px;">
-        </center>
+        <img src="{{ '/static/assets/img/'  | prepend: site.baseurl }}{{ banner.src }}" alt="{{ banner.title }}" style="width:100%;">
       </div>
       {% endfor %}
       
