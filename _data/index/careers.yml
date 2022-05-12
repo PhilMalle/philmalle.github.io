@@ -154,17 +154,18 @@
     detail: <img src="../../static/assets/img/BTLO-status-new.PNG" alt="BlueTeamLabs">
     i18n: company_b_job
   icon: fa-plus-square 
+  
 - name:
     detail: Infineon
     i18n: company_b
-   desc:
+  desc:
      detail: Staff Speialist Cyber-Security
      i18n: company_b_desc
-   date:
+  date:
      detail: July 2022
      i18n: company_b_date
-   job:
+  job:
      detail: Red-Teaming 
      i18n: company_b_job
-   icon: fa-plus-square
-   present: false
+  icon: fa-plus-square
+  present: false
