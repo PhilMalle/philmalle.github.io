@@ -14,6 +14,13 @@
   img: /static/assets/img/landing/htb.png
   desc: I use this platform to get a better understanding from hacking and pentesting.
 
+- name: Hack the Box - Academy
+  i18n: hackthebox
+  gh_user: fr3akazo1d
+  url: https://academy.hackthebox.com
+  img: /static/assets/img/landing/htb.png
+  desc: This is my main Platform for learning new and old stuff. 
+
 - name: Pentester Academy
   i18n: pentesteracademy
   url: https://www.pentesteracademy.com/
