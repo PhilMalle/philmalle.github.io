@@ -1,128 +1,31 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Wild Austria
-    i18n: company_a
-  desc:
-    detail: Surface Technician
-    i18n: company_a_desc
-  date:
-    detail: August 2001
-    i18n: company_a_date
-  job:
-    detail: Skilled worker
-    i18n: company_a_job
-  icon: fa-plus-square
-
-- name:
     detail: Infineon Technologies
     i18n: company_b
   desc:
-    detail: Scripting & Packaging
-    i18n: company_b_desc
+     detail: Staff Speialist Cyber-Security
+     i18n: company_b_desc
   date:
-    detail: August 2010
-    i18n: company_b_date
+     detail: July 2022
+     i18n: company_b_date
   job:
-    detail: Scripter
-    i18n: company_b_job
+     detail: Red-Teaming 
+     i18n: company_b_job
   icon: fa-plus-square
-  
-- name:
-    detail: addIT
-    i18n: company_b
-  desc:
-    detail: Scripting & Packaging
-    i18n: company_b_desc
-  date:
-    detail: July 2014
-    i18n: company_b_date
-  job:
-    detail: Scripter
-    i18n: company_b_job
-  icon: fa-plus-square
-  
-- name:
-    detail: Software Cube
-    i18n: company_b
-  desc:
-    detail: Software Developer
-    i18n: company_b_desc
-  date:
-    detail: August 2016
-    i18n: company_b_date
-  job:
-    detail: Software Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+  present: false
 
 - name:
-    detail: Atos
+    detail: Blue Team Labs
     i18n: company_b
   desc:
-    detail: Network Engineer
+    detail: Student on BlueTeamLabs
     i18n: company_b_desc
   date:
-    detail: May 2017
+    detail: April 2021
     i18n: company_b_date
   job:
-    detail: Network Engineer
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: CCNA - Routing & Switching
-    i18n: company_b
-  desc:
-    detail: Cisco Certification
-    i18n: company_b_desc
-  date:
-    detail: May 2018
-    i18n: company_b_date
-  job:
-    detail: Cisco CCNA Routing & Swtiching
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: CCNA - Security
-    i18n: company_b
-  desc:
-    detail: Cisco Certification
-    i18n: company_b_desc
-  date:
-    detail: October 2019
-    i18n: company_b_date
-  job:
-    detail: Cisco CCNA Security
-    i18n: company_b_job
-  icon: fa-plus-square  
-
-- name:
-    detail: TryHackMe
-    i18n: company_b
-  desc:
-    detail: Student on Tryhackme
-    i18n: company_b_desc
-  date:
-    detail: June 2020
-    i18n: company_b_date
-  job:
-    detail: <img src="https://tryhackme-badges.s3.amazonaws.com/Fr3akazo1d.png" alt="TryHackMe">
-    i18n: company_b_job
-  icon: fa-plus-square 
-
-- name:
-    detail: Hack the Box
-    i18n: company_b
-  desc:
-    detail: Student on Hack the box
-    i18n: company_b_desc
-  date:
-    detail: July 2020
-    i18n: company_b_date
-  job:
-    detail: 
+    detail: <img src="../../static/assets/img/BTLO-status-new.PNG" alt="BlueTeamLabs">
     i18n: company_b_job
   icon: fa-plus-square 
 
@@ -142,30 +45,127 @@
   present: true
 
 - name:
-    detail: Blue Team Labs
+    detail: Hack the Box
     i18n: company_b
   desc:
-    detail: Student on BlueTeamLabs
+    detail: Student on Hack the box
     i18n: company_b_desc
   date:
-    detail: April 2021
+    detail: July 2020
     i18n: company_b_date
   job:
-    detail: <img src="../../static/assets/img/BTLO-status-new.PNG" alt="BlueTeamLabs">
+    detail: 
     i18n: company_b_job
   icon: fa-plus-square 
-  
+
+- name:
+    detail: TryHackMe
+    i18n: company_b
+  desc:
+    detail: Student on Tryhackme
+    i18n: company_b_desc
+  date:
+    detail: June 2020
+    i18n: company_b_date
+  job:
+    detail: <img src="https://tryhackme-badges.s3.amazonaws.com/Fr3akazo1d.png" alt="TryHackMe">
+    i18n: company_b_job
+  icon: fa-plus-square 
+
+- name:
+    detail: CCNA - Security
+    i18n: company_b
+  desc:
+    detail: Cisco Certification
+    i18n: company_b_desc
+  date:
+    detail: October 2019
+    i18n: company_b_date
+  job:
+    detail: Cisco CCNA Security
+    i18n: company_b_job
+  icon: fa-plus-square  
+
+- name:
+    detail: CCNA - Routing & Switching
+    i18n: company_b
+  desc:
+    detail: Cisco Certification
+    i18n: company_b_desc
+  date:
+    detail: May 2018
+    i18n: company_b_date
+  job:
+    detail: Cisco CCNA Routing & Swtiching
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Atos
+    i18n: company_b
+  desc:
+    detail: Network Engineer
+    i18n: company_b_desc
+  date:
+    detail: May 2017
+    i18n: company_b_date
+  job:
+    detail: Network Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Software Cube
+    i18n: company_b
+  desc:
+    detail: Software Developer
+    i18n: company_b_desc
+  date:
+    detail: August 2016
+    i18n: company_b_date
+  job:
+    detail: Software Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: addIT
+    i18n: company_b
+  desc:
+    detail: Scripting & Packaging
+    i18n: company_b_desc
+  date:
+    detail: July 2014
+    i18n: company_b_date
+  job:
+    detail: Scripter
+    i18n: company_b_job
+  icon: fa-plus-square
+
 - name:
     detail: Infineon Technologies
     i18n: company_b
   desc:
-     detail: Staff Speialist Cyber-Security
-     i18n: company_b_desc
+    detail: Scripting & Packaging
+    i18n: company_b_desc
   date:
-     detail: July 2022
-     i18n: company_b_date
+    detail: August 2010
+    i18n: company_b_date
   job:
-     detail: Red-Teaming 
-     i18n: company_b_job
+    detail: Scripter
+    i18n: company_b_job
   icon: fa-plus-square
-  present: false
+  
+- name:
+    detail: Wild Austria
+    i18n: company_a
+  desc:
+    detail: Surface Technician
+    i18n: company_a_desc
+  date:
+    detail: August 2001
+    i18n: company_a_date
+  job:
+    detail: Skilled worker
+    i18n: company_a_job
+  icon: fa-plus-square
