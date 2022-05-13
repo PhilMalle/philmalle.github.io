@@ -5,7 +5,10 @@
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: Blue Team Labs
   href: /blueteamlabs/
-
+  
+- name: Gear
+  href: /gear/
+  
 - name: Hack The Box
   href: /hackthebox/
 
@@ -15,6 +18,9 @@
 - name: Mac
   href: /mac/
 
+- name: Personal
+  href: /personal/
+  
 - name: Python
   href: /python/
 
@@ -23,9 +29,3 @@
   
 - name: Windows
   href: /windows/
-  
-- name: Gear
-  href: /gear/
-
-- name: Personal
-  href: /personal/
