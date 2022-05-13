@@ -54,7 +54,7 @@
     detail: July 2020
     i18n: company_b_date
   job:
-    detail: <img src="http://www.hackthebox.eu/badge/image/307465" alt="Hack The Box">
+    detail: <script src="https://tryhackme.com/badge/36293"></script>
     i18n: company_b_job
   icon: fa-plus-square 
 
