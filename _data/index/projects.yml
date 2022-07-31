@@ -48,8 +48,12 @@
 
 - name: Security Blue Team
   i18n: securityblueteam
-  url: http://https://securityblue.team
+  url: https://securityblue.team
   img: /static/assets/img/landing/sbt.png
   desc: My training for Cyber-Security related stuff.
   
-
+- name: Security mit Passion
+  i18n: securitymitpassion
+  url: https://security-mit-passion.at
+  img: /static/assets/img/landing/smp.png
+  desc: Penetration Testing mentoring Program.
