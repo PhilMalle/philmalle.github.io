@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Security mit Passion
+    i18n: company_b
+  desc:
+     detail: Mentoring Program
+     i18n: company_b_desc
+  date:
+     detail: August 2022
+     i18n: company_b_date
+  job:
+     detail: Student 
+     i18n: company_b_job
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: Infineon Technologies
     i18n: company_b
   desc:
