@@ -10,10 +10,10 @@
      detail: July 2022
      i18n: company_b_date
   job:
-     detail: Red-Teaming 
+     detail: Cyber Security Adversary Emulation 
      i18n: company_b_job
   icon: fa-plus-square
-  present: false
+  present: true
 
 - name:
     detail: Blue Team Labs
@@ -42,7 +42,7 @@
     detail: Cyber-Security Analyst
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Hack the Box
