@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Infineon Technologies
+    i18n: company_b
+  desc:
+     detail: Senior Staff Specialist Offensive Security
+     i18n: company_b_desc
+  date:
+     detail: April 2024
+     i18n: company_b_date
+  job:
+     detail: Cyber-Security Offensive Secrurity 
+     i18n: company_b_job
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: Security mit Passion
     i18n: company_b
   desc:
@@ -19,7 +34,7 @@
     detail: Infineon Technologies
     i18n: company_b
   desc:
-     detail: Staff Speialist Cyber-Security
+     detail: Staff Specialist Cyber-Security
      i18n: company_b_desc
   date:
      detail: July 2022
@@ -28,7 +43,7 @@
      detail: Cyber Security Adversary Emulation 
      i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Blue Team Labs
