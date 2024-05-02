@@ -97,7 +97,7 @@
     detail: Student on Tryhackme
     i18n: company_b_desc
   date:
-    detail: June 2020
+    detail: April 2020
     i18n: company_b_date
   job:
     detail: <script src="https://tryhackme.com/badge/36293"></script>
@@ -117,7 +117,8 @@
   job:
     detail: Cisco CCNA Security
     i18n: company_b_job
-  icon: fa-plus-square  
+  icon: fa-plus-square 
+  present: false
 
 - name:
     detail: CCNA - Routing & Switching
@@ -132,6 +133,7 @@
     detail: Cisco CCNA Routing & Swtiching
     i18n: company_b_job
   icon: fa-plus-square
+  present: false
 
 - name:
     detail: Atos
@@ -146,6 +148,7 @@
     detail: Network Engineer
     i18n: company_b_job
   icon: fa-plus-square
+  present: false
 
 - name:
     detail: Software Cube
@@ -160,6 +163,7 @@
     detail: Software Developer
     i18n: company_b_job
   icon: fa-plus-square
+  present: false
 
 - name:
     detail: addIT
@@ -174,6 +178,7 @@
     detail: Scripter
     i18n: company_b_job
   icon: fa-plus-square
+  present: false
 
 - name:
     detail: Infineon Technologies
@@ -188,6 +193,7 @@
     detail: Scripter
     i18n: company_b_job
   icon: fa-plus-square
+  present: false
   
 - name:
     detail: Wild Austria
@@ -202,3 +208,4 @@
     detail: Skilled worker
     i18n: company_a_job
   icon: fa-plus-square
+  present: false
