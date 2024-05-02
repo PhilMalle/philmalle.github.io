@@ -58,6 +58,7 @@
     detail: <img src="../../static/assets/img/BTLO-status-new.PNG" alt="BlueTeamLabs">
     i18n: company_b_job
   icon: fa-plus-square 
+  present: false
 
 - name:
     detail: Atos
@@ -87,6 +88,7 @@
     detail: <script src="https://tryhackme.com/badge/36293"></script>
     i18n: company_b_job
   icon: fa-plus-square 
+  present: true
 
 - name:
     detail: TryHackMe
@@ -101,6 +103,7 @@
     detail: <img src="https://tryhackme-badges.s3.amazonaws.com/Fr3akazo1d.png" alt="TryHackMe">
     i18n: company_b_job
   icon: fa-plus-square 
+  present: true
 
 - name:
     detail: CCNA - Security
