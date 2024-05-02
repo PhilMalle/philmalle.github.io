@@ -85,7 +85,7 @@
     detail: July 2020
     i18n: company_b_date
   job:
-    detail: <script src="https://tryhackme.com/badge/36293"></script>
+    detail: <script src="https://www.hackthebox.com/badge/image/307465"></script>
     i18n: company_b_job
   icon: fa-plus-square 
   present: true
@@ -100,7 +100,7 @@
     detail: June 2020
     i18n: company_b_date
   job:
-    detail: <img src="https://tryhackme-badges.s3.amazonaws.com/Fr3akazo1d.png" alt="TryHackMe">
+    detail: <script src="https://tryhackme.com/badge/36293"></script>
     i18n: company_b_job
   icon: fa-plus-square 
   present: true
